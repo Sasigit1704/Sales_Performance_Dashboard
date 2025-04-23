@@ -1,26 +1,70 @@
-# **Sales Performance Dashboard - Power BI**
+# 🛒 Sales Performance Dashboard – Consumer Products
 
-🚀 **Project Overview**  
-This project provides a comprehensive analysis of sales performance across regions, products, and customer segments using **Power BI**. The interactive dashboard visualizes key metrics like total sales, operating profit, customer segmentation, and product performance to help businesses make data-driven decisions.
+This project presents a professional *Power BI dashboard* that analyzes fictional sales data for a consumer products business.  
+It helps track revenue, profit, product category performance, regional sales, and customer behavior across multiple dimensions.
 
-## 📊 **Dashboard Highlights**
-- **Sales by Region**: Visualizes sales distribution across various regions (East, West, North, South).
-- **Top Products**: Displays the highest-selling products to inform inventory and marketing strategies.
-- **Operating Profit & Margin**: Measures profitability and operating efficiency.
-- **Customer Segmentation**: Analyzes customer groups to drive targeted marketing efforts.
-- **Dynamic Filters**: Allows users to interact with data based on region, product category, and time.
+---
 
-## 🔍 **Data Sources**
-Data was collected from a range of sample datasets covering sales transactions, product information, and customer segmentation. The dataset includes details on units sold, revenue, operating costs, and profit margins.
+## 📊 Key Features
 
-## 🛠️ **Tools & Technologies Used**
-- **Power BI**: For creating the interactive dashboard and visualizations.
-- **DAX**: For custom calculations, including operating margins and profit analysis.
-- **SQL**: For data extraction and preparation.
+- *KPI Cards*:
+  - Total Revenue
+  - Operating Profit
+  - Operating Margin (%)
+  - Quantity Sold
 
-## 📈 **Key Insights**
-- Visualized the **top-selling products** and identified which regions had the highest sales.
-- Analyzed the **operating profit and margins** across different regions and product categories.
-- Segmented customers to uncover actionable trends and opportunities for targeted marketing.
+- *Regional Performance*:
+  - Visual breakdown by North, South, East, and West zones
 
-# Thank you.
+- *Product Category Analysis*:
+  - Sales by category (e.g., Kitchenware, Mobile, Furniture)
+
+- *Sales Method Distribution*:
+  - Donut chart comparing Online, Retail, and Wholesale
+
+- *Dynamic Filters & Slicers*:
+  - Filter data by Order Date, Product Category, Sales Method
+
+---
+
+## 🛠 Tools Used
+
+- *Power BI Desktop* – Visualizations, slicers, KPIs, and DAX formulas
+- *Microsoft Excel* – Source data preparation
+- *DAX* – Calculated columns and measures (e.g., Operating Margin = DIVIDE(Operating Profit, Revenue))
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| Sales_Dashboard.pbix | Final dashboard file (open in Power BI Desktop) |
+| sales.csv | Cleaned transaction-level sales data |
+| products.csv | Product-level info with categories |
+| customers.csv | Customer info with segments |
+| regions.csv | Region mapping for visualizations |
+| README.md | This documentation file |
+| dashboard.png |  Containing dashboard screenshot |
+
+---
+
+## 🚀 How to Run This Project
+
+1. Download or clone this repository
+2. Open the Sales_Dashboard.pbix file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+3. Explore the visuals using the slicers and filters
+
+---
+
+## 🙋‍♂ About Me
+
+*Sasi Kaladhar*  
+🎓 B.Tech | Mechanical Engineering @ IIT Patna  
+📧 pillisasikaladhar.palasa@gmail.com  
+🔗 [GitHub](https://github.com/Sasigit1704)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pillisasikaladhar170404)
+
+---
+
+> ## Thankyou.
