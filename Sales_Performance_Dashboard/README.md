@@ -66,5 +66,3 @@ It helps track revenue, profit, product category performance, regional sales, an
 🔗 [LinkedIn](https://www.linkedin.com/in/pillisasikaladhar170404)
 
 ---
-
-## Thankyou.
